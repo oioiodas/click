@@ -3,7 +3,7 @@
  * Вставьте этот код на все страницы сайта.
  */
 (function() {
-    const API_URL = 'https://your-server.com';  // URL вашего Flask-сервера
+    const API_URL = 'https://finans-dowedz.com';  // URL вашего Flask-сервера
 
     // Отслеживание просмотра страницы
     function trackPageview() {
