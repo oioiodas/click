@@ -9,7 +9,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 #   КОНФИГУРАЦИЯ
 # ============================================================
 BOT_TOKEN = "8987999012:AAH90oHXkNtImrD82QRFxLB4e5gIYMKj_Jk"  # Токен от @BotFather
-WEBAPP_URL = "https://click-production.up.railway.app"  # HTTPS URL
+WEBAPP_URL = "https://click-ivmd.onrender.com"  # HTTPS URL
 DB_PATH = "clicks.db"
 
 # ============================================================
